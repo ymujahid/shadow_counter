@@ -1,4 +1,4 @@
-/*
+/* 
  * File:   counter.c
  * Author: Yunus Mujahid
  *
